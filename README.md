@@ -6,4 +6,4 @@ MaxLaunch is a utility designed to launch Windows executables in a maximized win
 
 - **Automatic Window Maximization**: Launches the target executable in a maximized window.
 - **Executable Name Adjustment**: Automatically adjusts the executable name by replacing `.max.exe` with `.exe`.
-- **Command Line Arguments Support**: Passes command line arguments to the target executable.
+- **Command Line Arguments Support**: Passes command line arguments to the target executable. If you don't need this, you can simply use a `.lnk` (shortcut) file to achieve similar functionality without command line support.
